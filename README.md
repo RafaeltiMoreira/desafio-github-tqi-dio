@@ -1,2 +1,2 @@
-# desafio-github-tqi-dio
-Desafio de projeto sobre Git/GitHub
+# Repositório do desafio do projeto TQI | DIO
+Desafio de projeto sobre Git/GitHub.
